@@ -111,7 +111,7 @@ body.pictures::before {
   to   { opacity: 0.3; }
 }
 
-body.pictures.background-is-loaded::before {
+body.pictures.background::before {
   animation: fade-in 1s;
   opacity: 0.3;
 }

@@ -1,6 +1,6 @@
 # Chrome New Tab Experimentation
 
-[Source](https://github.com/pioul/Buffer-Values-New-Tab-Page)[- Author: pioul](https://github.com/pioul)
+[Source](https://github.com/pioul/Buffer-Values-New-Tab-Page) - [Author](https://github.com/pioul)
 
 
 This has been one of my favorite Chrome extensions for a while now. I have always wanted to add my personal touch to the 

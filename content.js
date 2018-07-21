@@ -93,3 +93,26 @@ export const values = [
         ]
     }
 ];
+
+export const backgroundImages = [
+    ['../graphics/backgrounds/epic-iceland.jpg',
+        '../graphics/backgrounds/orange-light-in-queenstown-new-zealand.jpg'],
+    ['../graphics/backgrounds/jacks-point.jpg',
+        '../graphics/backgrounds/tekapo-new-zealand-trey-ratcliff-2.jpg'],
+    ['../graphics/backgrounds/trey-ratcliff-walking-alone-and-being-somewhat-lost-on-which-way.jpg',
+        '../graphics/backgrounds/auckland-night.jpg'],
+    ['../graphics/backgrounds/trey-ratcliff-new-york-inception.jpg',
+        '../graphics/backgrounds/bang2.jpg'],
+    ['../graphics/backgrounds/ohau-cliff-hawaii-trey-ratcliff.jpg',
+        '../graphics/backgrounds/sleeping-in.jpg'],
+    ['../graphics/backgrounds/day-17-randy-erebus-halo.jpg',
+        '../graphics/backgrounds/sheep-in-new-zealand.jpg'],
+    ['../graphics/backgrounds/the-lonely-trinity.jpg',
+        '../graphics/backgrounds/the-water-in-autumn.jpg'],
+    ['../graphics/backgrounds/morning-with-coffee-in-yellowstone.jpg',
+        '../graphics/backgrounds/trey-ratcliff-medieval-village.jpg'],
+    ['../graphics/backgrounds/behind-my-house-new-zealand.jpg',
+        '../graphics/backgrounds/bonus-pink-sky.jpg'],
+    ['../graphics/backgrounds/farewell-san-francisco.jpg',
+        '../graphics/backgrounds/seattle.jpg']
+];
