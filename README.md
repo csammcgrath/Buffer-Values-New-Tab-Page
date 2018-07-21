@@ -1,9 +1,8 @@
-# Buffer Values New Tab Page
+# Chrome New Tab Experimentation
 
-The Buffer values are an important and vital part of the company.
-They're inspirational, aspirational, and just great words to live by.
-This New Tab Page is a shout-out to them, and an attempt to look at them more often.
+[Source](https://github.com/pioul/Buffer-Values-New-Tab-Page)[- Author: pioul](https://github.com/pioul)
 
-:)
 
-[Install Chrome extension](https://chrome.google.com/webstore/detail/buffer-values-new-tab-pag/cmecogbdcnpglcmmfpdaekcbnakkfolo)
+This has been one of my favorite Chrome extensions for a while now. I have always wanted to add my personal touch to the 
+extension because it was very limited in what it can do. After obtaining the source code, I went in and refactored the code
+in attempt to make it easier to add new stuff to the extension. 
